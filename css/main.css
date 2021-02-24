@@ -40,7 +40,7 @@ img {
   height: auto;
 }
 
-.body {
+body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   color: var(--primary-black-color);
